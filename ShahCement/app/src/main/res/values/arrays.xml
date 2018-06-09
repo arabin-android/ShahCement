@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="btn_images">
+        <item>@drawable/btn_design</item>
+        <item>@drawable/btn_examine</item>
+        <item>@drawable/btn_site</item>
+        <item>@drawable/btn_piling</item>
+        <item>@drawable/btn_foundation</item>
+        <item>@drawable/btn_gathni</item>
+        <item>@drawable/btn_shuttering</item>
+        <item>@drawable/btn_rod_badhai</item>
+        <item>@drawable/btn_dhalay</item>
+        <item>@drawable/btn_plastaring</item>
+        <item>@drawable/btn_curing</item>
+        <item>@drawable/btn_brick</item>
+        <item>@drawable/btn_dust</item>
+        <item>@drawable/btn_khoya</item>
+        <item>@drawable/btn_stone</item>
+        <item>@drawable/btn_water</item>
+        <item>@drawable/btn_cement</item>
+        <item>@drawable/btn_rod</item>
+        <item>@drawable/btn_concret</item>
+        <item>@drawable/btn_readymixconcret</item>
+        <item>@drawable/btn_wood</item>
+        <item>@drawable/btn_tiles</item>
+        <item>@drawable/btn_marble</item>
+        <item>@drawable/btn_painting</item>
+        <item>@drawable/btn_aluminium</item>
+        <item>@drawable/btn_sanitary</item>
+        <item>@drawable/btn_electric</item>
+        <item>@drawable/btn_waterroof</item>
+        <item>@drawable/btn_fire</item>
+        <item>@drawable/btn_eartquake</item>
+    </array>
+    <string-array name="faq_pdf">
+        <item>design_faq.pdf</item>
+        <item>soil_test_faq.pdf</item>
+        <item>site_preperation_faq.pdf</item>
+        <item>N/A</item>
+        <item>foundation_faq.pdf</item>
+        <item>gathuni_faq.pdf</item>
+        <item>formwork_faq.pdf</item>
+        <item>rod_badhai_faq.pdf</item>
+        <item>concrete_dhalai_faq.pdf</item>
+        <item>plaster_faq.pdf</item>
+        <item>curing_faq.pdf</item>
+        <item>iter_kotha_faq.pdf</item>
+        <item>bali_faq.pdf</item>
+        <item>khoa_faq.pdf</item>
+        <item>stone_faq.pdf</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>concrete_faq.pdf</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+    </string-array>
+    <string-array name="lokkhoniyo_pdf">
+        <item>design_lokh.pdf</item>
+        <item>soil_test_lokh.pdf</item>
+        <item>site_preperation_lokh.pdf</item>
+        <item>piling_lokh.pdf</item>
+        <item>N/A</item>
+        <item>gathuni_lokh.pdf</item>
+        <item>formwork_lokh.pdf</item>
+        <item>rod_badhai_lokh.pdf</item>
+        <item>N/A</item>
+        <item>plaster_lokh.pdf</item>
+        <item>curing_lokh.pdf</item>
+        <item>iter_kotha_lokh.pdf</item>
+        <item>bali_lokh.pdf</item>
+        <item>khoa_lokh.pdf</item>
+        <item>stone_lokh.pdf</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>rod_lokh.pdf</item>
+        <item>concrete_lokh.pdf</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>tiles_lokh.pdf</item>
+        <item>N/A</item>
+        <item>painting_lokh.pdf</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>electric_lokh.pdf</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>N/A</item>
+    </string-array>
+    <string-array name="main_pdf_array">
+        <item>design_main.pdf</item>
+        <item>soil_test_main.pdf</item>
+        <item>site_preperation_main.pdf</item>
+        <item>piling_main.pdf</item>
+        <item>foundation_main.pdf</item>
+        <item>gathuni_main.pdf</item>
+        <item>formwork_main.pdf</item>
+        <item>rod_badhai_main.pdf</item>
+        <item>concrete_dhalai_main.pdf</item>
+        <item>plaster_main.pdf</item>
+        <item>curing_main.pdf</item>
+        <item>iter_kotha_main.pdf</item>
+        <item>bali_main.pdf</item>
+        <item>khoa_main.pdf</item>
+        <item>stone_main.pdf</item>
+        <item>water_main.pdf</item>
+        <item>cement_main.pdf</item>
+        <item>rod_main.pdf</item>
+        <item>concrete_main.pdf</item>
+        <item>readymix_concrete_main.pdf</item>
+        <item>wood_main.pdf</item>
+        <item>tiles_main.pdf</item>
+        <item>marble_main.pdf</item>
+        <item>painting_main.pdf</item>
+        <item>glass_alumunium_main.pdf</item>
+        <item>sanitary_main.pdf</item>
+        <item>electric_main.pdf</item>
+        <item>jolchad_main.pdf</item>
+        <item>fire_main.pdf</item>
+        <item>earthquack_main.pdf</item>
+    </string-array>
+
+    <array name="tab_button_images">
+        <item>@drawable/tab_btn_lokkhoniyo</item>
+        <item>@drawable/tab_btn_video</item>
+        <item>@drawable/tab_btn_question</item>
+    </array>
+
+    <string-array name="video_duration_array">
+        <item>00:51</item>
+        <item>00:31</item>
+        <item>01:01</item>
+        <item>02:48</item>
+        <item>04:47</item>
+        <item>06:15</item>
+        <item>05:04</item>
+        <item>04:06</item>
+        <item>05:37</item>
+        <item>03:51</item>
+    </string-array>
+    <string-array name="video_id_array">
+        <item>NXg-l9vfCVU</item>
+        <item>v8Mrwvq6xpw</item>
+        <item>LIiNSrxLETk</item>
+        <item>Z3O9I9MlrKU</item>
+        <item>76D-URivq4Y</item>
+        <item>DbRY91rNebY</item>
+        <item>nOJm_dJMozk</item>
+        <item>cB7e5xTeQOs</item>
+        <item>RlDg6mQ3QBI</item>
+        <item>9RRZmFDmGKA</item>
+    </string-array>
+    <string-array name="video_title_array">
+        <item>Shahcement Houseful Offer TVC January - 2018</item>
+        <item>Shahcement Houseful Offer 2018</item>
+        <item>Shah Cement - Proud Construction Partner of Padma Bridge.</item>
+        <item>Sumon Shah Cement Nirmaner Taroka 2010 Performances</item>
+        <item>Sumon Shah Cement Nirmaner Taroka 2010 Performances</item>
+        <item>onoshpoti Mojumder Shah Cement Nirmaner Taroka 2010 Performances</item>
+        <item>Shahana Shah Cement Nirmaner Taroka 2010 Performances</item>
+        <item>Subarna Akter Chaiti Shah Cement Nirmaner Taroka 2010 Performances</item>
+        <item>Adi Shah Cement Nirmaner Taroka 2010 Performances</item>
+        <item>Jahidul Islam Shah Cement Nirmaner Taroka 2010 Performances</item>
+    </string-array>
+</resources>
