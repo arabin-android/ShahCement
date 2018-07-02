@@ -41,6 +41,7 @@ public class LokkhonioActivity extends AppCompatActivity implements View.OnClick
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         final ProgressHUD mProgressHud = ProgressHUD.show(this, "LOADING ...", true);
         requestWindowFeature(Window.FEATURE_NO_TITLE);
@@ -82,9 +83,11 @@ public class LokkhonioActivity extends AppCompatActivity implements View.OnClick
                 }
             },Constants.PROGRESS_DELAY_SHORT);
         }
+
         tab_btn_video_id.setOnClickListener(this);
         tab_btn_lokkhoniyo_id.setOnClickListener(this);
         tab_btn_question_id.setOnClickListener(this);
+
     }
 
     @Override
@@ -113,6 +116,14 @@ public class LokkhonioActivity extends AppCompatActivity implements View.OnClick
             default:
                 break;
         }
+    }
+
+
+    public void check(){
+
+    }
+    private void check1(){
+
     }
 
     private void questionsClick(View v) {
